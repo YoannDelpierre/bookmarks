@@ -4,6 +4,8 @@
 
 http://putaindecode.fr
 
+https://developers.google.com/web/fundamentals/
+
 ## responsive
 
 http://bradfrost.github.io/this-is-responsive/patterns.html
