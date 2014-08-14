@@ -8,6 +8,10 @@ http://putaindecode.fr
 
 http://bradfrost.github.io/this-is-responsive/patterns.html
 
+## design
+
+http://bowlinggooglies.com/design/essential-websites-for-app-designers/
+
 
 ## compatibility
 
