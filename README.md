@@ -20,3 +20,9 @@ http://bowlinggooglies.com/design/essential-websites-for-app-designers/
 http://html5test.com/
 
 http://css3test.com/
+
+# windows
+
+## files
+
+dir xxxx\*.js /a-d /b /s > file.txt
